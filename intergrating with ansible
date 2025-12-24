@@ -1,0 +1,5 @@
+kubectl get pods -o wide 
+kubectl get deploy -o wide
+kubectl get service -o wide
+
+wget <kubernetes-Master-IP>:31200
